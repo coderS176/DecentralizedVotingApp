@@ -1,0 +1,6 @@
+0. ganache start
+1. Truffle compile and truffle migrate in truffle console
+2. frontend start
+3. backend start 
+(python -m uvicorn main:app --reload --host 127.0.0.1)
+4. 
